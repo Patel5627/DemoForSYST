@@ -9,6 +9,8 @@ package demoforgit;
  * @author yashp
  */
 //change in git
+//fetch
+//merge
 public class DemoForGit {
 
     /**
